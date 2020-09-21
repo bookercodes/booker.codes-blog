@@ -9,7 +9,7 @@ layout: layouts/post.njk
 
 Before sending or receiving emails through Amazon's Simple Email Service (SES) you’ll need to verify a domain. Although AWS mention verification “may take up to 72 hours” in most cases, it ought to only take a few minutes. Trouble arises when you attempt to verify a domain and nothing happens - you get stuck in this sorta “pending verification” purgotory with no feedback as to when it'll end!
 
-![](/img/ses-pending-verification/1.png)
+![](1.png)
 
 After pending verification for more than 60 minutes I was left woundering if I'd done something wrong. Maybe I just needed to be patient and wait until tomorrow morning and up to 72 hours? Hope not!
  
@@ -23,11 +23,11 @@ This will give you a fresh perspective, sure, but more importantly, AWS imply (i
 
 One reason I felt a little confused is that AWS instruct me to set the **TXT name** field to `_amazonses.booker.host`:
 
-![](/img/ses-pending-verification/2.png)
+![](2.png)
 
 But my DNS, [CloudFlare](https://cloudflare.com/), doesn’t have a **TXT name field**. As I later learned, their equivalent field is labelled **Name**: 
 
-![](/img/ses-pending-verification/3.png)
+![](3.png)
 
 That was a little embarassing to write but heindsight is 20/20!
 
