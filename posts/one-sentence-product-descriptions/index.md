@@ -1,6 +1,6 @@
 ---
-title: One sentence product descriptions
-description: One sentence product descriptions
+title: One-sentence product descriptions
+description: One-sentence product descriptions
 date: 2020-10-02
 layout: layouts/post.njk
 ---
@@ -32,6 +32,6 @@ The best pitchers adapt to their audience and use all available context to their
 
 The pattern David identified is helpful to remember - generally, I like it - but as I'm sure David will agree, it's not a silver bullet. If anything, this pattern exemplifies how there are no hard and fast rules when it comes to copy or pitching.  In both Mark and Travis's examples, they're selling features, not benefits and while it made sense for Facebook and Uber within this within the context of these videos, this approach may not be suitable for all products in all places. Some products just need more emphasis on the benefits. Ultimately, there is no universal one-liner or pitch.
 
-If you're struggling to compose a one-sentence pitch, that might be a symptom of an imprecise product strategy. David warns that it's “easy to mistake a one-line description as just another communications tactic however, crafting this sentence is one of the most strategic decisions a founder can make”. How can an advocate describe your product succinctly if you yourself cannot? Hell, how can your own team get behind the mission if there's not clarity about your focus
+If you're struggling to compose a one-sentence pitch, that might be a symptom of an imprecise product strategy. David warns that it's “easy to mistake a one-line description as just another communications tactic however, crafting this sentence is one of the most strategic decisions a founder can make”. How can an advocate describe your product succinctly if you yourself cannot? Hell, how can your own team get behind the mission if there's not clarity about your focus?
 
 If you cannot distill your product in one-sentence (using the “you do X and Y happens” pattern or otherwise), your strategy might be unfocused. If your product requires you to overly-emphasize benefits, perhaps you don't have a comeplling lead feature. Perhaps you just haven't identified your lead feature yet. In any case, exercising one-sentence descriptions can identify gaps in your offering to the market - gaps which may inhibit your ability to find product-market fit. It may be that you're intentionally competing in a competitive red ocean, trying to convince customers your product is better than the competition through marketing. In that case, good bye and good luck!
