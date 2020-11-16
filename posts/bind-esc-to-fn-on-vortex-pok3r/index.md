@@ -21,20 +21,20 @@ Normally when binding keys, the spacebar LED indicates the current state. To mak
 
 In this how-to, I am going to embrace the fact that you’ll probably mess up and ask that you reset your Pok3r from the beginning. It might be that you can skip step 1 as long as you read the others carefully. Leggo!
 
-1. Reset your Pok3r by holding down R_ALT and L_ALT for 5 seconds
+1. Reset your Pok3r by pressing and holding R_ALT + L_ALT for 5 seconds
 2. You can only bind FN for one layer at a time, so pick layer 1, 2, 3, or 4. Even though switch 3 binds CAPS to FN on the default layer, it is otherwise impossible to rebind FN on the default layer
-3. If, like me, you need to bind CAPS to ESC, do that first 
+3. If like me, you need to bind CAPS to ESC, do that first 
 	1. Press FN + R_CONTROL
 	2. Press CAPS
 	3. Press ESC
 	4. Press PN
 	5. Press FN + R_CONTROL
-	6. Unless you're an wabsolutead lad, use [Keyboard Tester](https://www.keyboardtester.com/tester.html) to test CAPS is now registering ESC
-4. Unplug your Pok3r and flip switch 4 ON to enter FN/PN BINDING MODE 
-5. Plug your Pok3r back in. Your keyboard is now in a special FN/PN BINDING MODE where you can't type - only bind FN and PN
-6. When the Pok3r wakes up in FN/PN PROGRAMMING MODE, it will anticipate you to bind either FN or PN
+	6. Unless you're an absolute mad lad, use [Keyboard Tester](https://www.keyboardtester.com/tester.html) to test CAPS is now registering ESC
+4. Unplug your Pok3r and flip switch 4 ON to enter _FN/PN BINDING MODE_
+5. Plug your Pok3r back in. Your keyboard is now in a special _FN/PN BINDING MODE_ where you can't type - only bind FN and PN
+6. When the Pok3r wakes up in _FN/PN PROGRAMMING MODE_, it will anticipate you to bind either FN or PN
 7. To do this, press FN once then ESC (or the key you want to bind FN to) once
 8. Press PN once then PN once 
-9. Flip switch 4 OFF to exit FN/PN PROGRAMMING MODE (no need to unplug this time)
+9. Flip switch 4 OFF to exit _FN/PN PROGRAMMING MODE_ (no need to unplug this time)
 
-ESC should now be your FN key. Sick.
+ESC should now be your FN key. Sick mate.
