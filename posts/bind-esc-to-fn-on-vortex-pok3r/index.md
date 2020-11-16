@@ -22,7 +22,7 @@ Normally when binding keys, the spacebar LED indicates the current state. To mak
 In this how-to, I am going to embrace the fact that you’ll probably mess up and ask that you reset your Pok3r from the beginning. It might be that you can skip step 1 as long as you read the others carefully. Leggo!
 
 1. Reset your Pok3r by holding down R_ALT and L_ALT for 5 seconds
-2. You can only bind FN for one layer at a time, so pick layer 1, 2, 3, or 4. Even though flipping switch 3 ON binds CAPS to FN on the default layer, it is impossible to bind FN to ESC (or any key) on the default layer
+2. You can only bind FN for one layer at a time, so pick layer 1, 2, 3, or 4. Even though switch 3 binds CAPS to FN on the default layer, it is otherwise impossible to rebind FN on the default layer
 3. If, like me, you need to bind CAPS to ESC, do that first 
 	1. Press FN + R_CONTROL
 	2. Press CAPS
