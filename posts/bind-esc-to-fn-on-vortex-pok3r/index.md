@@ -17,9 +17,11 @@ My saving grace was [this post](https://www.reddit.com/r/MechanicalKeyboards/com
 
 ## How to bind ESC to FN
 
-Normally when binding keys, the spacebar LED indicates the current state. To make things more fun, the Pok3r doesn’t offer any feedback when binding the FN key, making it easy to mess up. Not trying to brag, but it only took me one attempt to fuck up all my previous binds. Oh well.
+Normally when binding keys, the spacebar LED indicates the current state. The Pok3r doesn't offer any documentation and it doesn’t offer any feedback when binding the FN key either, making it easy to mess up. Not trying to brag, but it only took me one attempt to fuck up all my previous binds. Oh well.
 
-In this how-to, I am going to embrace the fact that you’ll probably mess up and ask that you reset your Pok3r from the beginning. It might be that you can skip step 1 as long as you read the others carefully. Leggo!
+In this how-to, I am going to embrace the fact that you’ll probably mess up and ask that you reset your Pok3r from the beginning. It might be that you can skip step 1 as long as you read the others carefully.
+
+Leggo!
 
 1. Reset your Pok3r by pressing and holding R_ALT + L_ALT for 5 seconds
 2. You can only bind FN for one layer at a time, so pick layer 1, 2, 3, or 4. Even though switch 3 binds CAPS to FN on the default layer, it is otherwise impossible to rebind FN on the default layer - just thought I'd let you know!
