@@ -5,13 +5,13 @@ date: 2020-11-16
 layout: layouts/post.njk
 ---
 
-If, like me, you relish the idea of using HJKL for your arrows, you’ll need to map FN to a key on the left-hand-side of your keyboard - that is unless you have salad fingers
+If like me, you relish the idea of using HJKL for your arrows, you’ll need to map FN to a key on the left-hand side of your keyboard - that is unless you have salad fingers.
 
-The left-hand-side of your keyboard has 4 prime candidate for FN - namely, ESC, CAPS, R_CTRL, and R_ALT. 
+The left-hand side of your keyboard has 4 prime candidates for FN - namely, ESC, CAPS, R_CTRL, and R_ALT. 
 
 Of these 4 candidates, CAPS is easiest to bind FN to - all you need to do is flip switch 3 ON. This will bind CAPS to FN on *all* layers - nice and easy. 
 
-With that said, I am special and want to to use ESC as my special FN key. If you want to do the same, you'll need something of a Konami code. At least, reading the [manual](http://www.vortexgear.tw/db/upload/webdata4/6vortex_20166523361966663.pdf), there’s only a hint about how to do this.
+With that said, I am special and want to use ESC as my special FN key. If you want to do the same, you'll need something of a Konami code. At least, reading the [manual](http://www.vortexgear.tw/db/upload/webdata4/6vortex_20166523361966663.pdf), there’s only a hint about how to do this.
 
 My saving grace was [this post](https://www.reddit.com/r/MechanicalKeyboards/comments/35uy60/guide_howto_program_your_pok3r_programming_layers/) on Reddit but I hope I can make things a little clearer yet.
 
@@ -19,7 +19,7 @@ My saving grace was [this post](https://www.reddit.com/r/MechanicalKeyboards/com
 
 Normally when binding keys, the spacebar LED indicates the current state. To make things more fun, the Pok3r doesn’t offer any feedback when binding the FN key, making it easy to mess up. Not trying to brag, but it only took me one attempt to fuck up all my previous binds. Oh well.
 
-In this how-to, I am going to embrace the fact that you’ll probably mess up and ask that you reset your keybord from the beginning. Leggo ⤵️
+In this how-to, I am going to embrace the fact that you’ll probably mess up and ask that you reset your Pok3r from the beginning. Leggo ⤵️
 
 1. Reset your Pok3r by holding down R_ALT and L_ALT for 5 seconds
 2. You can only bind FN for one layer at a time, so pick layer 1, 2, 3, or 4. Even though flipping switch 3 ON binds CAPS to FN on the default layer, it is impossible to bind FN to ESC (or any key) on the default layer
@@ -29,7 +29,7 @@ In this how-to, I am going to embrace the fact that you’ll probably mess up an
 	3. Press ESC
 	4. Press PN
 	5. Press FN + R_CONTROL
-	6. Unless you're an absoloute mad lad, use [Keyboard Tester](https://www.keyboardtester.com/tester.html) to test CAPS is now registering ESC
+	6. Unless you're an wabsolutead lad, use [Keyboard Tester](https://www.keyboardtester.com/tester.html) to test CAPS is now registering ESC
 4. Unplug your Pok3r and flip switch 4 ON to enter FN/PN BINDING MODE 
 5. Plug your Pok3r back in. Your keyboard is now in a special FN/PN BINDING MODE where you can't type - only bind FN and PN
 6. When the Pok3r wakes up in FN/PN PROGRAMMING MODE, it will anticipate you to bind either FN or PN
