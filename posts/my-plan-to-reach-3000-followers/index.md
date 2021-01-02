@@ -30,6 +30,9 @@ Followers aren’t that important to me. I need a more personable and striking a
 
 I can’t honestly answer why I should care about followers - it doesn’t mean much to me, aside from a loose proxy for reach. 
 
+
+The biggest barrier I see is that people tend to follow people who have been there and done that. People on the same course, and a little beyond them. I think this is something I have to put aside.
+
 ## Canvas strategy
 While I have a lot to learn, that shouldn’t stop me from making progress. 
 
